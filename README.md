@@ -6,11 +6,6 @@
 💬 Ask me about Python, FastAPI, React, async processing & ML integrations  
 ⚡ Fun fact: I refactor for fun and automate everything that moves 🚀
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serhii-makohoniuk-8425893b2) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:serhii.makohoniuk27@gmail.com) 
-
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
